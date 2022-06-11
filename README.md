@@ -1,6 +1,9 @@
-# test
-#PAID TOOL
-#INSTALLATION
+# OLD CRACKER
+
+# PAID TOOL
+
+# INSTALLATION
+
 apt update
 
 apt upgrade
@@ -21,6 +24,6 @@ pip install bs4
 
 git clone https://github.com/FAHIM404-CYBER/OLD-CRACKER
 
-cd OLD CRACKER
+cd OLD-CRACKER
 
 python OLD-CRAKER.py
